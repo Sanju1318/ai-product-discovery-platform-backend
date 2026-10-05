@@ -1,0 +1,50 @@
+[
+  {
+    "title": "iPhone 15",
+    "description": "Apple iPhone 15 smartphone with A16 Bionic chip, 48MP main camera, Super Retina XDR display, iOS operating system and premium design."
+  },
+  {
+    "title": "iPhone 15 Pro",
+    "description": "Apple iPhone 15 Pro premium smartphone with A17 Pro chip, titanium design, advanced camera system, ProMotion display, iOS and high performance."
+  },
+  {
+    "title": "Samsung Galaxy S24",
+    "description": "Samsung Galaxy S24 flagship Android smartphone with AMOLED display, advanced AI features, powerful processor, high quality camera and premium design."
+  },
+  {
+    "title": "Google Pixel 8",
+    "description": "Google Pixel 8 Android smartphone with Tensor processor, advanced AI camera, clean Android experience, excellent photography and premium display."
+  },
+  {
+    "title": "OnePlus 12",
+    "description": "OnePlus 12 high performance Android smartphone with Snapdragon processor, AMOLED display, powerful camera, gaming performance and fast charging."
+  },
+  {
+    "title": "MacBook Air M3",
+    "description": "Apple MacBook Air with M3 chip, lightweight design, Retina display, long battery life, macOS and excellent performance for programming and productivity."
+  },
+  {
+    "title": "Dell XPS 14",
+    "description": "Dell XPS 14 premium Windows laptop with powerful processor, high resolution display, fast performance and professional design for developers and productivity."
+  },
+  {
+    "title": "Sony WH-1000XM5",
+    "description": "Sony wireless headphones with industry leading noise cancellation, premium sound quality, Bluetooth connectivity, comfortable design and long battery life."
+  },
+  {
+    "title": "AirPods Pro 2",
+    "description": "Apple AirPods Pro 2 wireless earbuds with active noise cancellation, spatial audio, transparency mode, Bluetooth connectivity and comfortable design."
+  },
+  {
+    "title": "Logitech MX Master 3S",
+    "description": "Logitech wireless productivity mouse with precision tracking, customizable buttons, Bluetooth connectivity, ergonomic design and long battery life."
+  },
+  {
+    "title": "Sony WH-CH720N",
+    "description": "Sony affordable wireless headphones with noise cancellation, Bluetooth connectivity, clear sound quality, comfortable design and long battery life."
+  },
+  {
+    "title": "iPad Air M2",
+    "description": "Apple iPad Air with M2 chip, Liquid Retina display, iPadOS, lightweight design, powerful performance and excellent device for study, creativity and productivity."
+  }
+]
